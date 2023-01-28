@@ -1,0 +1,7 @@
+Name       Score
+A           100
+B           95
+C           70
+D           88
+E           98
+F           66
